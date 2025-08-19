@@ -3,6 +3,6 @@ sources:
   - name: Enlisted
     handler:
       graphql:
-        endpoint: http://localhost:8000/subgraphs/name/scaffold-eth/your-contract
+        endpoint: http://localhost:8000/subgraphs/name/scaffold-eth/enlist
 documents:
   - ./graphql/GetEnlisted.gql

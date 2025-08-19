@@ -1,3 +1,0 @@
-{
-  "7712a1b009aa3ba3eeb7bfe69cc6cbb6c865b6bdb0af10b32b21b22becf2b0d9": "query GetEnlisted {\n  enlisteds(first: 25) {\n    account\n    transactionHash\n    id\n    blockTimestamp\n    blockNumber\n  }\n}"
-}
