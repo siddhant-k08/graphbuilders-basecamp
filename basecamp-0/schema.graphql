@@ -1,0 +1,7 @@
+type WelcomeMessageChanged @entity(immutable: true) {
+  id: Bytes!
+  newMessage: String! # string
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}

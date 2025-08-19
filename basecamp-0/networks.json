@@ -1,0 +1,8 @@
+{
+  "base-sepolia": {
+    "Welcome": {
+      "address": "0x1956B43E846Fb319e12E82eCaE85F90e4fb91f56",
+      "startBlock": 29920081
+    }
+  }
+}
